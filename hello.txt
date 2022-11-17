@@ -13,7 +13,9 @@ hello word!
 hello word!
 hello word!  master test
 hello word!
-hello git  
+<<<<<<< HEAD
+=======hello git hot-fix test
+>>>>>>> hot-fix
 333
 
 
